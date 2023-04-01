@@ -7,4 +7,4 @@ The title of each file denotes graph type and scale, such as "PL_100" representi
 ## Training tricks
 
 ## Updates
-The updates of data will be announced later.
+The updates of data will be announced later as the space here is limited.
